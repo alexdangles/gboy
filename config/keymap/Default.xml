@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<keys>
+  <key name="left">21</key>
+  <key name="right">22</key>
+  <key name="up">19</key>
+  <key name="down">20</key>
+  <key name="select">100</key>
+  <key name="start">97</key>
+  <key name="a">96</key>
+  <key name="b">99</key>
+  <key name="tl">102</key>
+  <key name="tr">103</key>
+  <key name="turbo_a">0</key>
+  <key name="turbo_b">0</key>
+  <key name="turbo_tl">0</key>
+  <key name="turbo_tr">0</key>
+  <key name="up+left">0</key>
+  <key name="up+right">0</key>
+  <key name="down+left">0</key>
+  <key name="down+right">0</key>
+  <key name="a+b">0</key>
+  <key name="tl+tr">0</key>
+  <key name="tl+a">0</key>
+  <key name="tl+b">0</key>
+  <key name="tr+a">0</key>
+  <key name="tr+b">0</key>
+  <key name="gs">0</key>
+  <key name="load">107</key>
+  <key name="save">106</key>
+  <key name="ff">105</key>
+  <key name="ss">0</key>
+  <key name="menu">108</key>
+</keys>

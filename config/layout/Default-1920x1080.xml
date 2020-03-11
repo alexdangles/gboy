@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<screen>
+  <control type="video" bounds="300,100,1625,983" />
+  <control type="dpad" bounds="0,675,325,1000" />
+  <control type="ff" bounds="1425,1008,1497,1080" />
+  <control type="ab" bounds="1575,775,1920,922" />
+  <control type="load" bounds="575,1005,650,1080" />
+  <control type="tl" bounds="50,0,300,156" />
+  <control type="start" bounds="800,983,1075,1080" />
+  <control type="save" bounds="1225,1008,1297,1080" />
+  <control type="menu" bounds="400,1005,475,1080" />
+  <control type="tr" bounds="1625,0,1870,153" />
+</screen>
