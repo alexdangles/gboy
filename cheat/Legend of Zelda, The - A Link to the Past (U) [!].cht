@@ -1,0 +1,476 @@
+cheat
+  name: Invincibility
+  code: 7e031f=6a
+
+cheat
+  name: Infinite rupees
+  code: 7ef360=e7
+
+cheat
+  name: Infinite health and all heart containers
+  code: 7ef36d=a0
+
+cheat
+  name: Almost infinite health
+  code: 0780f7=cf
+
+cheat
+  name: Infinite magic
+  code: 7ef36e=80
+
+cheat
+  name: Almost infinite magic
+  code: 07b0c8=cf + 07b101=cf
+
+cheat
+  name: Max heart containers
+  code: 04f4f2=a0
+
+cheat
+  name: Infinite Bombs
+  code: 098133=cf
+
+cheat
+  name: Infinite Bombs (alt)
+  code: 7ef343=63
+
+cheat
+  name: Infinite Arrows
+  code: 7ef377=63
+
+cheat
+  name: Hit anywhere (disable before fighting Ganon, use the Boomerang instead of Sword to hit switches)
+  code: 06f2d1=24 + 06ebfc=80 + 06ec13=24 + 06f3a7=24 + 06ec2c=80 + 1e83b3=24
+
+cheat
+  name: Get items from anywhere
+  code: 06d11e=24
+
+cheat
+  name: Regular sword is very strong (100 damage instead of 2)
+  code: 0db8fa=64
+
+cheat
+  name: Blue Boomerang has much longer reach
+  code: 089204=bd
+
+cheat
+  name: Enemies frozen by Boomerang or Hookshot stay frozen
+  code: 06e321=bd
+
+cheat
+  name: Sword can destroy solid objects in Overworld
+  code: 1bbe39=80
+
+cheat
+  name: Objects that you can pick up and throw never break away
+  code: 06e234=10
+
+cheat
+  name: Dash without having the Pegasus Boots
+  code: 7ef379=ff
+
+cheat
+  name: Dash without charge up
+  code: 0790b9=27
+
+cheat
+  name: Walk on deep water
+  code: 0787cb=64 + 07da3b=de + 07da3a=5b
+
+cheat
+  name: Use the Magic Mirror to warp between the Light and Dark Worlds freely
+  code: 07a953=80
+
+cheat
+  name: Some shops don't take your money
+  code: 1ef3ae=cf
+
+cheat
+  name: Spin attack needs nearly no time to charge
+  code: 079d79=08
+
+cheat
+  name: Spin attack needs no time at all to charge
+  code: 079d79=00
+
+cheat
+  name: 100% enemy drop rate (from enemies that normally drop items)
+  code: 86f9bb=00
+
+cheat
+  name: No enemies in dungeons
+  code: 7e0d30=05 + 7e0d31=05 + 7e0d32=05
+
+cheat
+  name: Dark rooms are fully lit
+  code: 7e045a=03
+
+cheat
+  name: Trigger doors are open (works with most dungeon doors, some that even look closed)
+  code: 7e068d=ff
+
+cheat
+  name: Hold button L to walk over pits
+  code: 07dc8d=00 + 07dc8c=f2 + 07dc8f=20
+
+cheat
+  name: Hold button R to walk over pits
+  code: 07dc8d=00 + 07dc8c=f2 + 07dc8f=10
+
+cheat
+  name: Prevent Zelda from saying 'Help me... I am in the dungeon of the castle' during the beginning of the game
+  code: 099ff3=ad
+
+cheat
+  name: Have Bombos Medallion
+  code: 7ef347=01
+
+cheat
+  name: Have Book Of Mudora
+  code: 7ef34e=01
+
+cheat
+  name: Have Bug-Catching Net
+  code: 7ef34d=01
+
+cheat
+  name: Have Cane Of Byrna
+  code: 7ef351=01
+
+cheat
+  name: Have Cane Of Somaria
+  code: 7ef350=01
+
+cheat
+  name: Have Ether Medallion
+  code: 7ef348=01
+
+cheat
+  name: Have Fire Rod
+  code: 7ef345=01
+
+cheat
+  name: Have Flute
+  code: 7ef34c=02
+
+cheat
+  name: Have Flute with Duck
+  code: 7ef34c=03
+
+cheat
+  name: Have Golden Sword (level 4)
+  code: 7ef359=04
+
+cheat
+  name: Have Hookshot
+  code: 7ef342=01
+
+cheat
+  name: Have Ice Rod
+  code: 7ef346=01
+
+cheat
+  name: Have Lamp
+  code: 7ef34a=01
+
+cheat
+  name: Have Magic Boomerang
+  code: 7ef341=02
+
+cheat
+  name: Have Magic Cape
+  code: 7ef352=01
+
+cheat
+  name: Have Magic Hammer
+  code: 7ef34b=01
+
+cheat
+  name: Have Magic Mirror
+  code: 7ef353=02
+
+cheat
+  name: Have Magic Powder
+  code: 7ef344=02
+
+cheat
+  name: Have Mirror Shield
+  code: 7ef35a=03
+
+cheat
+  name: Have Moon Pearl
+  code: 7ef357=01
+
+cheat
+  name: Have Pegasus Boots
+  code: 7ef355=02
+
+cheat
+  name: Have Quake Medallion
+  code: 7ef349=01
+
+cheat
+  name: Have Red Mail
+  code: 7ef35b=02
+
+cheat
+  name: Have Shovel
+  code: 7ef34c=01
+
+cheat
+  name: Have Titan's Mitten
+  code: 7ef354=02
+
+cheat
+  name: Have Zora's Flippers
+  code: 7ef356=01
+
+cheat
+  name: Have 1/2 Magic curse
+  code: 7ef37b=01
+
+cheat
+  name: Have all abilities except Lift
+  code: 7ef379=6f
+
+cheat
+  name: Have all Maps, Compasses and Big Keys
+  code: 7ef364=ff + 7ef365=ff + 7ef366=ff + 7ef367=ff + 7ef368=ff + 7ef369=ff
+
+cheat
+  name: Invincibility (alt)
+  code: 7e031f=10
+
+cheat
+  name: Invincibility (alt 2)
+  code: 7e031f=01
+
+cheat
+  name: Infinite rupees (alt)
+  code: 7ef360=e7 + 7ef361=03
+
+cheat
+  name: Infinite Keys
+  code: 7ef36f=09
+
+cheat
+  name: Bombs full
+  code: 7ef375=01
+
+cheat
+  name: Play chest game for free and able to open all chests
+  code: 7e04c4=01
+
+cheat
+  name: Infinite time for digging game in the Dark World
+  code: 7e04b4=1e
+
+cheat
+  name: Always get Faerie at the Pond Of Happiness (as if you threw in 100 rupees)
+  code: 7ef36a=64
+
+cheat
+  name: Luck modifier - Great
+  code: 7e0cf9=01
+
+cheat
+  name: Luck modifier - Big Trouble
+  code: 7e0cf9=02
+
+cheat
+  name: Turn rain on
+  code: 7e001d=01
+
+cheat
+  name: Turn rain off
+  code: 7e001d=00
+
+cheat
+  name: Walk through walls
+  code: 07cb9a=ea + 07cb9b=ea + 07c1fa=ea + 07c1fb=ea
+
+cheat
+  name: Walk faster
+  code: 7e005e=16
+
+cheat
+  name: Walk much faster
+  code: 7e005e=10
+
+cheat
+  name: Have 20 Heart Containers and infinite health
+  code: 7ef36d=a0
+
+cheat
+  name: Have Blue Mail
+  code: 7ef35b=02
+
+cheat
+  name: Have Boomerang
+  code: 7ef341=01
+
+cheat
+  name: Have Bow
+  code: 7ef340=01
+
+cheat
+  name: Have Bow with Arrows
+  code: 7ef340=02
+
+cheat
+  name: Have Bow with Silver Arrows
+  code: 7ef340=04
+
+cheat
+  name: Have all Lift abilities
+  code: 7ef354=03
+
+cheat
+  name: Have all Crystals
+  code: 7ef37a=7f
+
+cheat
+  name: Have all Pendants
+  code: 7ef374=47
+
+cheat
+  name: Have Small Key In dungeons
+  code: 7ef36f=09
+
+cheat
+  name: Have Big Key in dungeons
+  code: 7ef366=ff + 7ef367=ff
+
+cheat
+  name: Have Compass in dungeons
+  code: 7ef365=ff
+
+cheat
+  name: Have bottle 1
+  code: 7ef35c=02
+
+cheat
+  name: Have bottle 1 with infinite Mushrooms
+  code: 7ef35c=01
+
+cheat
+  name: Have bottle 1 with infinite Red Medicine (life)
+  code: 7ef35c=03
+
+cheat
+  name: Have bottle 1 with infinite Green Medicine (magic)
+  code: 7ef35c=04
+
+cheat
+  name: Have bottle 1 with infinite Blue Medicine (cure all)
+  code: 7ef35c=05
+
+cheat
+  name: Have bottle 1 with infinite Faeries
+  code: 7ef35c=06
+
+cheat
+  name: Have bottle 1 with infinite Bees
+  code: 7ef35c=07
+
+cheat
+  name: Have bottle 1 with infinite Good Bees
+  code: 7ef35c=08
+
+cheat
+  name: Have bottle 2
+  code: 7ef35d=02
+
+cheat
+  name: Have bottle 2 with infinite Mushrooms
+  code: 7ef35d=01
+
+cheat
+  name: Have bottle 2 with infinite Red Medicine (life)
+  code: 7ef35d=03
+
+cheat
+  name: Have bottle 2 with infinite Green Medicine (magic)
+  code: 7ef35d=04
+
+cheat
+  name: Have bottle 2 with infinite Blue Medicine (cure all)
+  code: 7ef35d=05
+
+cheat
+  name: Have bottle 2 with infinite Faeries
+  code: 7ef35d=06
+
+cheat
+  name: Have bottle 2 with infinite Bees
+  code: 7ef35d=07
+
+cheat
+  name: Have bottle 2 with infinite Good Bees
+  code: 7ef35d=08
+
+cheat
+  name: Have bottle 3
+  code: 7ef35e=02
+
+cheat
+  name: Have bottle 3 with infinite Mushrooms
+  code: 7ef35e=01
+
+cheat
+  name: Have bottle 3 with infinite Red Medicine (life)
+  code: 7ef35e=03
+
+cheat
+  name: Have bottle 3 with infinite Green Medicine (magic)
+  code: 7ef35e=04
+
+cheat
+  name: Have bottle 3 with infinite Blue Medicine (cure all)
+  code: 7ef35e=05
+
+cheat
+  name: Have bottle 3 with infinite Faeries
+  code: 7ef35e=06
+
+cheat
+  name: Have bottle 3 with infinite Bees
+  code: 7ef35e=07
+
+cheat
+  name: Have bottle 3 with infinite Good Bees
+  code: 7ef35e=08
+
+cheat
+  name: Have bottle 4
+  code: 7ef35f=02
+
+cheat
+  name: Have bottle 4 with infinite Mushrooms
+  code: 7ef35f=01
+
+cheat
+  name: Have bottle 4 with infinite Red Medicine (life)
+  code: 7ef35f=03
+
+cheat
+  name: Have bottle 4 with infinite Green Medicine (magic)
+  code: 7ef35f=04
+
+cheat
+  name: Have bottle 4 with infinite Blue Medicine (cure all)
+  code: 7ef35f=05
+
+cheat
+  name: Have bottle 4 with infinite Faeries
+  code: 7ef35f=06
+
+cheat
+  name: Have bottle 4 with infinite Bees
+  code: 7ef35f=07
+
+cheat
+  name: Have bottle 4 with infinite Good Bees
+  code: 7ef35f=08
+
