@@ -1,0 +1,6 @@
+save/*.0*
+save/*.fz*
+save/*.fc*
+save/*.png
+save/*.st*
+save/*.sgm
