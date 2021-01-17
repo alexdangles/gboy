@@ -1,6 +1,8 @@
-save/*.0*
-save/*.fz*
-save/*.fc*
-save/*.png
-save/*.st*
-save/*.sgm
+save/**/
+!save/GameData/*
+*.0*
+*.fz*
+*.fc*
+*.png
+*.st*
+*.sgm
