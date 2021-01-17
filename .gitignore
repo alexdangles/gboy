@@ -1,5 +1,6 @@
-save/**/
-!save/GameData/*
+!save/
+save/**
+!save/GameData/
 *.0*
 *.fz*
 *.fc*
