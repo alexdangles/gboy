@@ -10,4 +10,5 @@
   <control type="save" bounds="1225,1008,1297,1080" />
   <control type="menu" bounds="400,1005,475,1080" />
   <control type="tr" bounds="1625,0,1870,153" />
+  <control type="a+b" bounds="1700,675,1813,788" />
 </screen>
