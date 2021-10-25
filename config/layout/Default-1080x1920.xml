@@ -8,7 +8,7 @@
   <control type="tl" bounds="0,0,300,187" />
   <control type="start" bounds="400,1425,675,1522" />
   <control type="save" bounds="850,1525,922,1597" />
+  <control type="a+b" bounds="800,1000,883,1083" />
   <control type="menu" bounds="500,0,572,72" />
   <control type="tr" bounds="775,0,1080,190" />
-  <control type="a+b" bounds="800,1000,908,1108" />
 </screen>
