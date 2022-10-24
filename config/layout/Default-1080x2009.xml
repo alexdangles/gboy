@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <screen>
-  <control type="video" bounds="0,324,1080,1044" />
+  <control type="video" bounds="0,297,1080,1017" />
   <control type="dpad" bounds="27,1107,423,1503" />
   <control type="ab" bounds="621,1215,1044,1396" />
   <control type="tl" bounds="0,108,324,310" />
   <control type="start" bounds="351,1647,729,1781" />
+  <control type="a+b" bounds="783,1134,889,1240" />
   <control type="menu" bounds="486,0,594,108" />
   <control type="tr" bounds="756,108,1080,310" />
-  <control type="a+b" bounds="783,1134,889,1240" />
 </screen>
